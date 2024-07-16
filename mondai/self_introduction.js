@@ -1,3 +1,4 @@
+// 自己紹介
 let named = "nrfn";
 let language = "JavaScript";
 let hitokoto = "freelance";
